@@ -9,10 +9,14 @@
 
 ## Screenshots:
 
-    ![Home Page](screenshots/home-page.png)
+Home Page:
+![Home Page](screenshots/home-page.png)
 
-    ![About-us Page](screenshots/about-us-page.png)
+About-us Page:
+![About-us Page](screenshots/about-us-page.png)
 
-    ![Contact-us Page](screenshots/contact-us.png)
+Contact-us Page:
+![Contact-us Page](screenshots/contact-us.png)
 
-    ![404(page_not_found) Page](screenshots/404.png)
+404(page not found) Page:
+![404(page_not_found) Page](screenshots/404.png)
