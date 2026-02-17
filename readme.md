@@ -4,6 +4,9 @@
 ## install nodemon: 
     npm i nodemon 
 
+## to run the application:
+    npm run dev
+    
 ## Watch Demo:
 ((https://youtu.be/izkpSZT25dQ))
 
